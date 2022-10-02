@@ -1,9 +1,10 @@
 module.exports = {
   siteMetadata: {
     title: `HFH`,
-    description: `HFH Management Consulting.`,
+    description: `HFH Management Solutions.`,
     author: `@hatem.maalej`,
     siteUrl: `https://gatsbytestmain21189.gatsbyjs.io/`,
+    image: `/gatsby-icon.png`,
   },
   plugins: [
     `gatsby-plugin-image`,
